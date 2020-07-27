@@ -1,8 +1,8 @@
 # 大四畢業專題競賽第一名 & 放視大賞決賽 
 
 放視大賞展示封面：[wesbos/Javascript30](https://github.com/wesbos/JavaScript30)
-![](./Document/poster/Cover.jpg =200x)
-![](./Document/poster/Inside.jpg =200x)
+![](./Document/poster/Cover.jpg)
+![](./Document/poster/Inside.jpg)
 
 
 ### 摘要
