@@ -1,0 +1,36 @@
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#FFFFFF">
+    <!--ripple中的color為點擊時的顏色-->
+
+    <!--基本顏色-->
+    <item>
+        <shape>
+        <corners
+            android:radius="6dp"
+            />
+            <gradient
+                android:angle="45"
+                android:centerX="49%"
+                android:centerColor="#F00E43"
+                android:startColor="#6517B3"
+                android:endColor="#850035"
+                android:type="linear"
+                />
+        <padding
+            android:left="0dp"
+            android:top="0dp"
+            android:right="0dp"
+            android:bottom="0dp"
+            />
+        <size
+            android:width="270dp"
+            android:height="60dp"
+            />
+        <stroke
+            android:width="3dp"
+            android:color="#00000000"
+            />
+        </shape>
+    </item>
+</ripple>
