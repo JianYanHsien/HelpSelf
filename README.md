@@ -4,7 +4,7 @@
 #### APP 開發動機與使用介紹：
 * 放視大賞 Youtuber 介紹影片：[YT 連結](https://www.youtube.com/watch?v=84hba_xMHNs)
 * 畢業專題 行前報告 PPT 轉影片 :  [YT 連結](https://www.youtube.com/watch?v=mcJriCNY6iM&t=28s)
-* 個人官網 Project Page : [JiaRen Web](http://jiaren.ga/portfolio.html)
+* 個人官網 Project Page : [JiaRen Web](http://jiaren.ga/project.html)
 
 <hr>
 
